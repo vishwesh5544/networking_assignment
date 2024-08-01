@@ -168,6 +168,10 @@ The `index.html` for `awesomeweb` is as follows:
 9. **Access the Website**:
     Open a browser and navigate to `http://awesomeweb`.
 
+## Output: 
+![image](https://github.com/user-attachments/assets/47112526-1905-49c9-a23a-49f4c090fb6b)
+
+
 ## Note
 
 This setup is done on Linux Pop!_OS using Neovim as the text editor.
