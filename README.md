@@ -9,7 +9,11 @@ Deploy a website on localhost using either apache2 or Nginx. Create a DNS name f
 # Question 2
 A website can have many subdomains and different services are running on them. Write a Python script to check the status of the subdomains which are up or down. The script should automatically check the status every minute and should update it in tabular format on the screen. 
 
+[Link to solution](solution2.md)
+
 # Question 3 
+[Link to solution](solution3.md)
+
 Virtual Machine (VM) - Overview 
 
 A virtual machine (VM) is a software emulation of a physical computer that runs an operating system and applications just like a physical machine. VMs allow you to create multiple isolated environments on a single physical host, each with its own virtual hardware configuration. This virtualization technology provides several advantages, such as the ability to run multiple operating systems on a single physical machine, easy migration of VMs between different hosts, and improved resource utilization. 
