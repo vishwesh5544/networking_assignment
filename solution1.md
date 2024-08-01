@@ -2,6 +2,7 @@
 # Awesome Web Deployment
 
 This documentation provides the steps to deploy a website on localhost using Nginx with the DNS name 'awesomeweb'. The deployment is done on a Linux Pop!_OS system using Neovim as the text editor.
+
 Link to my Neovim config: [Neovish](https://github.com/vishwesh5544/neovish)
 
 ## Nginx Configuration
